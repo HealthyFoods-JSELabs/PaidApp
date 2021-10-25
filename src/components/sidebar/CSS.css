@@ -1,0 +1,6 @@
+.logo > path {
+     stroke: #0fdd00;
+ }
+.activelogo > path {
+    stroke: #ffffff;
+}

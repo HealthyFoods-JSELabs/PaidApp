@@ -1,0 +1,186 @@
+.columncenter {
+    text-align: center;
+    /*display: inline-flex;*/
+    align-items: center;
+    /*justify-content: center;*/
+}
+.icon-shape {
+    padding: 12px;
+    text-align: center;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%; }
+.mycenter {
+    padding: 12px;
+    text-align: center;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    /*border-radius: 50%;*/
+}
+
+.mycenter1 {
+    /*padding: 12px;*/
+    text-align: center;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    /*border-radius: 50%;*/
+}
+
+.animheight{
+    transition: height, transform 10s;
+}
+
+
+
+/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
+@media screen and (min-width: 320px) {
+    .largesize {
+        font-size: 15px;
+    }
+    .mediumsize {
+        font-size: 11px;
+    }
+    .smallsize {
+        font-size: 12px;
+    }
+    .wizardlogosize {
+        width: 45%;
+    }
+    .dashcardwidth{
+        width:100%;
+    }
+    .barwidth{
+        width:80%;
+    }
+    .lineheight{
+        height: 4px;
+    }
+}
+
+@media screen and (min-width: 420px) {
+    .largesize {
+        font-size: 20px;
+    }
+    .mediumsize {
+        font-size: 17px;
+    }
+    .smallsize {
+        font-size: 13px;
+    }
+    .wizardlogosize {
+        width: 28%;
+    }
+    .dashcardwidth{
+        width:100%;
+    }
+    .barwidth{
+        width:40%;
+    }
+    .lineheight{
+        height: 4px;
+    }
+
+}
+
+@media screen and (min-width: 768px) {
+    .largesize {
+        font-size: 20px;
+    }
+    .mediumsize {
+        font-size: 20px;
+    }
+    .smallsize {
+        font-size: 18px;
+    }
+    .wizardlogosize {
+        width: 19%;
+    }
+    .dashcardwidth{
+        width:70%;
+    }
+    .barwidth{
+        width:40%;
+    }
+    .lineheight{
+        height: 4px;
+    }
+}
+@media screen and (min-width: 778px) {
+    .largesize {
+        font-size: 23px;
+    }
+    .mediumsize {
+        font-size: 23px;
+    }
+    .smallsize {
+        font-size: 18px;
+    }
+    .wizardlogosize {
+        width: 19%;
+    }
+    .dashcardwidth{
+        width:70%;
+    }
+    .barwidth{
+        width:40%;
+    }
+    .lineheight{
+        height: 2px;
+    }
+    .payformwidth{
+        width: 80%;
+    }
+
+}
+@media screen and (min-width: 1024px) {
+    .largesize {
+        font-size: 30px;
+    }
+    .mediumsize {
+        font-size: 27px;
+    }
+    .smallsize {
+        font-size: 20px;
+    }
+    .wizardlogosize {
+        width: 18%;
+    }
+    .dashcardwidth{
+        width:70%;
+    }
+    .barwidth{
+        width:20%;
+    }
+    .lineheight{
+        height: 2px;
+    }
+    .payformwidth{
+        width: 60%;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .wizardlogosize {
+        width: 48%;
+    }
+    .dashcardwidth{
+        width:100%;
+    }
+    .barwidth{
+        width:100%;
+    }
+    .lineheight{
+        height: 4px;
+    }
+    .chartfontsize{
+        font-size: 25px !important;
+    }
+
+}
+
+
+
+
