@@ -14,10 +14,14 @@
 }
 
 .App-header {
+
 branch02
   background-color: #276f95;
 
   background-color: #2d5bb6;
+main
+
+  background-color: #0d4bc6;
 main
   min-height: 100vh;
   display: flex;
@@ -25,10 +29,14 @@ main
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
+
  branch02
   color: rgb(174, 217, 0);
 
   color: rgb(255, 255, 255);
+main
+
+  color: rgba(21, 221, 145, 0.988);
 main
 }
 
