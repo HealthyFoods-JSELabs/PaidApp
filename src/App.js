@@ -14,8 +14,7 @@ function App() {
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Learn React for hacktoberfest-2022 
+main
         </a>
       </header>
     </div>
