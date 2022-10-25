@@ -1,5 +1,5 @@
 # OpenHackFest 2022 
-![image](https://user-images.githubusercontent.com/54996800/192564253-f3373ecc-bc86-4c13-a0bd-551b9c23f788.png)
+![image](https://community.appinventor.mit.edu/uploads/default/original/3X/b/4/b48502de6eaf2b2b651f90cccce74725e0e5a4e1.jpeg)
 
 ## What is Hacktoberfest?
 <p>Hacktoberfest is digitalocean’s annual event that encourages people to contribute to open source throughout october. Much of modern tech infrastructure—including some of digitalocean’s own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. Hacktoberfest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special.</p>
