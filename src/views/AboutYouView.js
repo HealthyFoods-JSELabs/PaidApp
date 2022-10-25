@@ -9,6 +9,8 @@ class AboutYouView extends React.Component {
         return (
             <div className="ChatHistoryView">
                 <AboutYouComponent/>
+            <AboutYouComponent/>
+            
             </div>
 
         );
