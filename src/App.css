@@ -14,16 +14,14 @@
 }
 
 .App-header {
- branch01
-  background-color: #2d5bb6;
- main
+
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: rgb(255, 255, 255);
+  color: rgba(21, 221, 145, 0.988);
 }
 
 .App-link {
