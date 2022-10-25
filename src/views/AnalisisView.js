@@ -14,6 +14,7 @@ class AnalisisView extends React.Component {
                                     fontSize: '6vw',
                                     fontWeight: 'bold'
                                 }}>
+                                    
                                     Contact us
                                 </div>
                             </Container>
