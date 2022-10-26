@@ -26,6 +26,7 @@ class FirstDashboardContent extends React.Component {
         return (
             <>
                 <DashboardContent/>
+             <DashboardContent/>
                 <MyPopup/>
                 {/*<DashboardContent/>*/}
 
