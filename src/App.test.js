@@ -91,3 +91,21 @@ var threeSum = function(nums) {
 	}
 	return rtn;
 };
+
+/* remove the nth node from the end of the list and return its head that the given head of a linked list, .*/
+var removeNthFromEnd = function(head, n) {
+    var nullHead = new ListNode(null);
+    nullHead.next = head;
+    var ptr1 = nullHead;
+    var ptr2 = nullHead;
+    
+    for(var i = 0; i < n + 1; i++)
+        ptr1 = ptr1.next;
+    while(ptr1 !== null){
+        ptr2 = ptr2.next;
+        ptr1 = ptr1.next;
+    }
+    ptr2.next = ptr2.next.next;
+    return nullHead.next;
+};
+
