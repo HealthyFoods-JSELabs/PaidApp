@@ -17,7 +17,9 @@
 .App-header {
   /* #276f95 */
 
+
   background-color: #d62020;
+
   min-height: 100vh;
 
   display: flex;
@@ -26,6 +28,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
 
+
   color: rgb(25, 27, 16);
 
 
@@ -33,7 +36,9 @@
 
 .App-link {
   /* #61dafb */
-  color: #645a6c;
+
+  color: #140721;
+
 }
 
 @keyframes App-logo-spin {
