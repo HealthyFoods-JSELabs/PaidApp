@@ -17,13 +17,12 @@
 .App-header {
   /* #276f95 */
 
+  background-color: #189fe9;
+  min-height: 400vh;
 
 
-  background-color: #d62020;
 
-  min-height: 100vh;
-
-
+  
   display: flex;
   flex-direction: column;
   align-items: center;
