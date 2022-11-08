@@ -27,6 +27,17 @@
 
 
 
+
+  background-color: #d6a620;
+
+
+  min-height: 100vh;
+
+
+
+
+=======
+
   
   display: flex;
   flex-direction: column;
@@ -36,6 +47,7 @@
 
 
   color: rgb(210, 246, 9);
+
 
 
 
